@@ -4,5 +4,7 @@ for i in lst_str:
    x = i.upper()
    new_lst.append(x)
     
-
 print(new_lst)    
+
+#OUTPUT:
+# ['APPLE', 'BANANA', 'ORANGE', 'MANGO'] 
