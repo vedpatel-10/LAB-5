@@ -31,3 +31,13 @@ elif choice == '3':
                 print(item)
 else:
         print("Invalid choice. Please try again.")
+
+#OUTPUT:
+# Initial stack: [3, 78, 82, 59, 76]
+
+# Stack Menu:
+# 1. Push
+# 2. Pop
+# 3. Display
+# Enter your choice: 2
+# 76 popped from stack.  
