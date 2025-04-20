@@ -30,3 +30,14 @@ elif choice == '3':
             print(queue)        
 else:
         print("Invalid choice. Please try again.")
+
+#OUTPUT:
+# Initial queue: [26, 84, 19, 7, 37]
+
+# Queue Menu:
+# 1. Insert
+# 2. Delete
+# 3. Display
+# Enter your choice: 1
+# Enter the item to insert: 34
+# 34 added to queue. 
