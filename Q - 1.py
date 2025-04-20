@@ -6,3 +6,8 @@ print(odd_num)
 odd_num.sort()                    # sorting the list 
 print("sorted list :")
 print(odd_num)
+
+#OUTPUT:
+# [3, 71, 4, 84, 64, 46, 35, 7]
+# sorted list :
+# [3, 4, 7, 35, 46, 64, 71, 84]
